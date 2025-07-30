@@ -1,0 +1,5 @@
+Aceita .tif
+RETIRADOS DE: https://bbbc.broadinstitute.org/image_sets
+BBBC00 	Human HT29 colon-cancer cells
+BBBC002 Drosophila Kc167 cells
+BBBC004 Synthetic cells 0.45
